@@ -1,0 +1,23 @@
+body {
+ background-image: url("paper.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#startgame{
+    background-color:chocolate;
+    font-family: sans-serif;
+    border-radius: 40%;
+}
+
+.bg-secondary {
+    background-color: rgba(57, 46, 46, 0.6)!important;
+    font-family: sans-serif ;
+    font-size: 100;
+}
+
+#seconds {
+    font-display: block;
+    color: white;
+}
